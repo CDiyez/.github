@@ -15,4 +15,6 @@ You can find these repositories in this organization.
   - NLayerDotnet
   - DDDDotnet
   - MicroservicesDotnet
+  - Dapr
+  - Aspire
   - 
